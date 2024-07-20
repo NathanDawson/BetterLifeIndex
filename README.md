@@ -1,5 +1,7 @@
 # OECD Better Life Index Data Analysis
 
+#### <a href="https://nbviewer.org/github/NathanDawson/BetterLifeIndex/blob/main/NB_betterLifeIndex.ipynb">Jupyter Notebook</a>
+
 ### Project Overview
 This project aims to showcase my ability to transform datasets using both Excel and 
 Python, and to create clear, user-friendly visualisations that allow for actionable 
