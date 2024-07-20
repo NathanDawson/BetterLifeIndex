@@ -78,10 +78,29 @@ Safety, and Work-Life Balance.
 </ul>
 
 <b>Use of Colour and Interactive Elements</b>
+<ul>
+  <li><b>Colour: </b>Utilised the same colour scheme with varying shades to represent different data values, creating a cohesive look.</li>
+  <li><b>Interactive Features: </b>Enabled users to hover over data points to reveal additional information, enhancing the exploration experience.</li>
+</ul>
 
 <b>Coordinated Views Design</b>
+<ul>
+  <li><b>Layout: </b>Arranged visualisations in a 2x2 grid for easy side-by-side comparison, with a larger choropleth graph accessible by scrolling.</li>
+</ul>
 
 <b>Considerations for Language and Text</b>
+<ul>
+  <li><b>User Accessibility: </b> Ensured all language and text used were understandable by a wide audience, avoiding complex statistical jargon.</li>
+</ul>
 
 
 ### Conclusion
+<p>This project demonstrates my capability to:</p>
+<ul>
+  <li>Transform and preprocess datasets in Excel and Python.</li>
+  <li>Handle missing data effectively.</li>
+  <li>Create insightful and user-friendly visualisations.</li>
+  <li>Apply design principles to enhance data presentation.</li>
+  <li>Communicate findings in an accessible manner.</li>
+</ul>
+<p>By showcasing this project, I aim to highlight my data analysis skills and my ability to create actionable insights through effective data visualisation.</p>
